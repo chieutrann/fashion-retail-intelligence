@@ -18,8 +18,7 @@ For installation instructions and steps to run the local LLM application, see:
 
 Watch the demo of the LLM application:
 
-![LLM Application Demo](demo.gif)
-
+<img src="demo.gif" alt="H&M Retail Intelligence Demo" width="100%">
 
 ## 2. Methodology – What We Did
 
