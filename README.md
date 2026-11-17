@@ -17,9 +17,9 @@ For installation instructions and steps to run the local LLM application, see:
 ## Demo
 
 Watch the demo of the LLM application:
-
-<img src="demo.gif" alt="H&M Retail Intelligence Demo" width="100%">
-
+<p >
+  <img src="./demo.gif" alt="H&M Retail Intelligence Demo" width="100%">
+</p>
 ## 2. Methodology – What We Did
 
 - **Data Preparation:** Cleaned, transformed, and organized transaction, article, and customer datasets.
