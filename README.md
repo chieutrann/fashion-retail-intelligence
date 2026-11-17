@@ -18,9 +18,7 @@ For installation instructions and steps to run the local LLM application, see:
 
 Watch the demo of the LLM application:
 
-<video src="demo.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+![LLM Application Demo](demo.gif)
 
 
 ## 2. Methodology – What We Did
